@@ -15,11 +15,9 @@ Documentation: Detailed documentation on the architecture, implementation, and u
 [Computer Architecture and Organization, David A. Pattenson, John L. Hennessy](https://drive.google.com/file/d/19itPVkgVXLdGP8mFfJdQSoOgKsX1oFxL/view?usp=drive_link) <br> <br>
 [5 Stage Pipelined RISCV Processor in RTL](https://www.researchgate.net/publication/359861898_5_Stage_Pipelined_RISCV_Processor_in_RTL) <br> <br>
 [RISC-V	Pipeline Implementation](https://passlab.github.io/CSE564/notes/lecture09_RISCV_Impl_pipeline.pdf) <br> <br>
-
 ### Referred Repos
 [Navin Kumar K](https://github.com/NAvi349/riscv-proc)
 
-FPGA synthesis tool (e.g., Xilinx Vivado or Intel Quartus)
-Verilog/SystemVerilog simulation tool (e.g., ModelSim)
-RISC-V ISA Specification
-RISC-V Software Tools
+# Tools used 
+- FPGA synthesis - Xilinx Vivado and Intel Quartus
+- Verilog/SystemVerilog simulation tool - ModelSim
