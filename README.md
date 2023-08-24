@@ -1,4 +1,4 @@
-#5 Stage Pipelined RISC-V Processor in RTL
+# 5 Stage Pipelined RISC-V Processor in RTL
 
 ## Introduction
 This repository contains the RTL (Register-Transfer Level) design and implementation of a 5-stage pipelined RISC-V processor. The RISC-V architecture is an open standard instruction set architecture (ISA) that is becoming increasingly popular for a wide range of applications, from embedded systems to high-performance computing.
