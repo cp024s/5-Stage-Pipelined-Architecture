@@ -1,4 +1,3 @@
-Creating a complete 5-stage pipelined architecture for a RISC-V processor in MIPS assembly is a complex task that involves many components and detailed design considerations. Below, I'll provide you with a high-level overview of the architecture's stages and key components. Keep in mind that implementing a full processor in Verilog based on this outline is a significant project that requires a deep understanding of both the RISC-V and MIPS ISAs, as well as Verilog programming.
 
 The following are the five stages of the pipelined architecture for a RISC-V processor based on MIPS assembly:
 
